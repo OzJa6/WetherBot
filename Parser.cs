@@ -1,6 +1,6 @@
 using AngleSharp;
 
-namespace Parser // Note: actual namespace depends on the project name.
+namespace Parserapi // Note: actual namespace depends on the project name.
 {
     public class Parser
     {
